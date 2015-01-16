@@ -1,22 +1,22 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            The Big Book of Latin
+description:      Learn Latin. For free. Forever.
+disqus_shortname: thebigbookoflatin
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: //thebigbookoflatin.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           VirusKA
+  avatar:         derpface.png
+  bio:            "A high school student who happens to know Latin really well. Obey me."
+  email:          devaprise@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: Devaprise       
   facebook:       
-  github:         
+  github: TheBigbookofLatin        
   stackexchange:  
   linkedin:       
   instagram:      
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus: 
 
 # Background image to be tiled on all pages
 background: 
