@@ -291,6 +291,11 @@ header .entry-meta {
 	text-align: center;
 	@include clearfix;
 }
+@media print{
+    .read-more {
+        visibility: hidden;
+    }
+}
 .read-more-header {
 	position: absolute;
 	top: -20px;
