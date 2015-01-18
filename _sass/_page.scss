@@ -462,3 +462,19 @@ header .entry-meta {
 #goog-wm-sb {
 	@extend .btn;
 }
+//Make website print friendly
+@media print {
+    /* insert your style declarations here */
+    body{
+        backgorund: #fff;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+    }
+    #page{
+        #disqus_thread{
+            visibility: hidden;
+        }
+    }
+}

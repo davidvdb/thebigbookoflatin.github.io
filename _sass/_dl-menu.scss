@@ -368,3 +368,8 @@ All this is done for any sub-level being entered.
 .dl-menuopen li {
 	display: block
 }
+@media print{
+    .dl-menuwrapper {
+        visibility: hidden;
+    }
+}
