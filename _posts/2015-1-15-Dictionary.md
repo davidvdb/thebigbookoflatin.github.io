@@ -3,6 +3,7 @@ layout: post
 title: How to Read a Latin Dictionary (Part 1)
 description: "Learn how to read a dictionary."
 modified: 2015-01-15
+tags: [Chapter 1]
 ---
 
 ##Before you begin

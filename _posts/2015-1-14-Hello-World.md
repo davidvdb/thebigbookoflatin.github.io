@@ -3,6 +3,7 @@ layout: post
 title: Welcome to Latin! 
 description: "(Trust me, you won't like it)"
 modified: 2015-01-14
+tags: [Chapter 1]
 ---
 
 So. You decided you want to learn Latin (Or was forced by the Board of Education). You decided the official language of the Romans and the basis of languages like English was for you. You decided that you must know every verb, noun, case, tense, voice, etc. will make you a better person. (Or you know, there a test next week on verbs and sentences.) Then you, my friend, will bookmark this page, sit back, and read.
